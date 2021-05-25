@@ -821,7 +821,7 @@
            id="layer2"
            inkscape:label="Layer 2"
            transform="translate(-73.938044,-367.13808)">
-           <a href="#/">
+      <a href="/contact/#footer-icons" title="Contact About {{ site.title }}"">
          <text
             transform="scale(1.2455178,0.80287893)"
             x="247.06252"
@@ -845,7 +845,7 @@
               y="570.28485"
               x="-110.89465">EASY</tspan></text>
         </a>
-          <a href="/contact/" title="Contact About {{ site.title }}">
+          <a href="/contact/#hollywood" title="Contact About {{ site.title }}">
             <image
              sodipodi:absref="/Users/dawnannbeattie/Desktop/don_easy.png"
              y="393"
@@ -896,16 +896,14 @@
              y="127.71928"
              style="stroke-width:6.63090277" /></text>
       </svg>
-
-
   </div>
     <div>
       <h1 class="project-name">{{ site.title }}</h1>
       <h2 class="project-tagline tagline-anim">{{ site.tagline }}</h2>
       {% if page.title != 'Contact About' %}
-      <a href="/categories/#train" title="Training Posts" class ="btn">Training</a>
-      <a href="/categories/#consult" title="Consulting Posts" class="btn">Consulting</a>
-      <a href="/categories/#contract" title="Contracting Posts" class="btn">Contracting</a>
+      <!-- <a href="/categories/#train" title="Training Posts" class ="btn">Training</a> -->
+      <a id="link" href="/base/#doc" title="Consulting Posts" class="btn">Consulting</a>
+      <!-- <a href="/categories/#contract" title="Contracting Posts" class="btn">Contracting</a> -->
       {% else %}
       <a href="#footer-icons" title="Social Link Icons" class="btn">SKIP to SOCIAL LINKS</a>
       {% endif %}

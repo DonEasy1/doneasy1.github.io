@@ -7,4 +7,4 @@ ref: now
 order: 0
 ---
 
-I just have to post this amazing and inspirational link: [Faith: Silly or Significant](https://greensock.com/faith/). I stumbled upon this man's journey from Atheism to Christianity.
+Click the POWER button on the generator above to repeat the onload animation.
