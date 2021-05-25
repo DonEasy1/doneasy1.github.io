@@ -1,10 +1,5 @@
 <section id="top" class="page-header">
-  {% if page.title == 'Contact About' %}
-    {{ content }}
-  {% else %}
    <div>
-
-
       <?xml version="1.0" encoding="UTF-8" standalone="no"?>
       <svg
          xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -904,7 +899,6 @@
 
 
   </div>
-  {% endif %}
     <div>
       <h1 class="project-name">{{ site.title }}</h1>
       <h2 class="project-tagline tagline-anim">{{ site.tagline }}</h2>
@@ -915,11 +909,11 @@
       {% else %}
       <a href="#footer-icons" title="Social Link Icons" class="btn">SKIP to SOCIAL LINKS</a>
       {% endif %}
-      {% if page.title == 'Now' %}
+      <!-- {% if page.title == 'Now' %}
       <div class=" meta">{{ page.date | date: "%b %-d, %Y" }}
       </div>
       </span>
-      {% endif %}
+      {% endif %} -->
     </div>
   </div>
 </section>
