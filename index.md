@@ -4,7 +4,7 @@ title: Home
 date: 2020-03-06
 ---
 
-<h2>Latest Posts</h2>
+<h2>Election Updates</h2>
   <ul>
     {% for post in site.posts %}
       {% assign date_format = site.cayman.date_format | default: "%b %-d, %Y" %}

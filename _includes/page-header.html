@@ -825,7 +825,7 @@
            id="layer2"
            inkscape:label="Layer 2"
            transform="translate(-73.938044,-367.13808)">
-      <a href="/contact/#hub" title="Contact About {{ site.title }}"">
+      <a href="/contact/#footer-icons" title="Contact About {{ site.title }}"">
          <text
             transform="scale(1.2455178,0.80287893)"
             x="247.06252"
@@ -905,18 +905,11 @@
     <div>
       <h1 class="project-name">{{ site.title }}</h1>
       <h2 class="project-tagline tagline-anim">{{ site.tagline }}</h2>
-      {% if page.title != 'Contact About' %}
-      <!-- <a href="/categories/#train" title="Training Posts" class ="btn">Training</a> -->
-      <a id="link" href="/base/#doc" title="Consulting Posts" class="btn">Consulting</a>
-      <!-- <a href="/categories/#contract" title="Contracting Posts" class="btn">Contracting</a> -->
+      {% if page.title != 'Election' %}
+         <a id="link" href="/election/#hub" title="For Business Manager" class="btn">CANDIDATE</a>
       {% else %}
-      <a href="#footer-icons" title="Social Link Icons" class="btn">SKIP to SOCIAL LINKS</a>
+      <a href="/#hub" title="Election Updates" class="btn">UPDATES</a>
       {% endif %}
-      <!-- {% if page.title == 'Now' %}
-      <div class=" meta">{{ page.date | date: "%b %-d, %Y" }}
-      </div>
-      </span>
-      {% endif %} -->
     </div>
   </div>
 </section>
