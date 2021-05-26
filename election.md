@@ -7,7 +7,7 @@ ref: now
 order: 0
 ---
 
-<h2>For Business Manager</h2>
+<h2>Business Manager</h2>
   <ul>
      Click the POWER button on the generator to repeat the onload animation.
   <ul>
