@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Awaiting News
+title: Nominations
 ---
 
-Candidacy is official. Stay tuned for more!
+Business Manager Candidacy is official. Stay tuned for more!
