@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nominations
+title: Nomination Day
 ---
 
 Business Manager Candidacy is official. Stay tuned for more!
