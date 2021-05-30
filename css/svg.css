@@ -120,7 +120,7 @@
     font-size: 1.5em;
 }
 
-#POWER, a:active,a:hover {
+a:active,hover {
   outline: 0;
   text-decoration: 0;
   color: #CC95C0;
