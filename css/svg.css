@@ -120,10 +120,8 @@
     font-size: 1.5em;
 }
 
-a:active,hover {
-    #POWER{
-      outline: 0;
-      text-decoration: 0;
-      color: #CC95C0;
-    }
+#POWER a:active,hover {
+  outline: 0;
+  text-decoration: 0;
+  color: #CC95C0;
 }
