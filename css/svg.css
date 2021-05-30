@@ -121,7 +121,9 @@
 }
 
 a:active,hover {
-  outline: 0;
-  text-decoration: 0;
-  color: #CC95C0;
+    #POWER{
+      outline: 0;
+      text-decoration: 0;
+      color: #CC95C0;
+    }
 }
