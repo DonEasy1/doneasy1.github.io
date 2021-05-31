@@ -908,13 +908,18 @@
     <div>
       <h1 class="project-name">{{ site.title }}</h1>
       <h2 class="project-tagline tagline-anim">{{ site.tagline }}</h2>
-      {% if page.title != 'Candidate' %}
-         <a id="link" href="/candidate/#hub" title="For Business Manager" class="btn">CANDIDATE</a>
-      {% else %}
-      <a href="/#hub" title="Updates" class="btn">UPDATES</a>
+      {% if page.path contains '_posts' %}
+         <a href="#footer-icons" title="Updates" class="btn">&dArr;&nbsp;&dArr;&nbsp;&dArr;</a>
+      {% endif %}
+      {% if page.title == 'Home' ||  %}
+         <a href="/candidate/#hub" title="For Manager" class="btn">CANDIDATE</a>
+      {% endif %}
+      {% if page.title == 'Candidate' %}
+         <a href="/#hub" title="Updates" class="btn">UPDATES</a>
+      {% endif %}
+      {% if page.title == 'Contact' %}
+         <a href="/candidate/#hub" title="For Manager" class="btn">CANDIDATE</a>
       {% endif %}
     </div>
   </div>
 </section>
-
-

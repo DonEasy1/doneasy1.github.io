@@ -4,10 +4,10 @@ title: Candidate
 tagline: What I'm doing now
 ---
 
-<h2>Business Manager</h2>
+<h3>For Business Manager</h3>
   
 More info will be posted here soon.
 
-<h4>Nomination accepted!</h4>
+<h5>Nomination accepted!</h5>
 
 For fun, tap "POWER" on generator above.
