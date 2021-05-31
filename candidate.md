@@ -6,7 +6,7 @@ tagline: What I'm doing now
 
 <h3>For Business Manager</h3>
   
-More info will be posted here soon.
+(More info to come soon...)
 
 <h5>Nomination accepted!</h5>
 
