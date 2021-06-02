@@ -8,7 +8,7 @@ IBEW Local 40 Candidate
 <hr/>
 <h4>Business Manager/Financial Secretary</h4>
 <hr/>
-Tap an image to expand the view.
+Tap each image to expand the view.
 <hr/>
 <a href="http://ibew.org/articles/09ElectricalWorker/EW1009/04.1009.html" title="Click for IBEW article"><img src="https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2021-05/st/pirates09-79563172.jpg?ts=1622515498" border="0" alt="Image hosting by KeepandShare.com" /></a>
 <a href="https://www.keepandshare.com/doc10/32768/california-film-tv-retention-promotion-act-of-2014?ifr=y"><img src="https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2021-06/st/ca_tv_act_2014-81693022.jpg?ts=1622562488" border="0" alt="Image hosting by KeepandShare.com" /></a>
