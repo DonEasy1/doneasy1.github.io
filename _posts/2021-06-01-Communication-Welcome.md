@@ -3,4 +3,4 @@ layout: post
 title: Communications
 ---
 
-Provide feedback, questions, testimonials via my contact form (email icon at the bottom of this page). Stay tuned for more info. Thank you!
+Provide feedback comments, testimonials, or questions via my contact form (email icon below). Stay tuned for more info. Thank you!
