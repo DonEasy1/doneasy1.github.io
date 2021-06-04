@@ -4,8 +4,6 @@ title: Candidate
 tagline: What I'm doing now
 ---
 
-IBEW Local 40 Candidate
-<hr/>
 <h4>Business Manager/Financial Secretary</h4>
 <hr/>
 Tap each image to expand the view.
