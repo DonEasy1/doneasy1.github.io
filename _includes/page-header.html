@@ -916,7 +916,11 @@
       {% if page.title == 'Home' %}
          <a href="/candidate/#hub" title="For Manager" class="btn">CANDIDATE</a>
       {% endif %}
-      {% if page.title == 'Candidate' || if page.title == 'Contact' %}
+      {% if page.title == 'Candidate' %}
+         <a href="/#hub" title="Updates" class="btn">2021 Election</a>
+         <a href="/contact/#footer-icons" title="Testimonials" class="btn">Testimonials</a>
+      {% endif %}
+      {% if page.title == 'Contact' %}
          <a href="/#hub" title="Updates" class="btn">2021 Election</a>
          <a href="/contact/#footer-icons" title="Testimonials" class="btn">Testimonials</a>
       {% endif %}
