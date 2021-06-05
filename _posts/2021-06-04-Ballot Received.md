@@ -3,4 +3,4 @@ layout: post
 title: Ballot Received
 ---
 
-Many have received ballots. PLEASE, follow the directions very carefully, so your vote counts! If you have not received your ballot withing the next few days, notify the Union Hall.
+Ballot received here. PLEASE, follow the directions carefully, so your vote does not get disqualified for any reason! If you have not received your ballot within the next few days, notify the Union Hall.
