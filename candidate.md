@@ -6,6 +6,8 @@ tagline: What I'm doing now
 
 <h4>Business Manager/Financial Secretary</h4>
 <hr/>
+<a href="https://www.keepandshare.com/doc10/32808/don-s-slideshow-story?ifr=y" title="Click for slideshow"><img src="https://www.keepandshare.com/userpics/d/_/a/_/b/2021-06/st/don_crystal_zoo-58979461.jpg?ts=1622960152" border="0" alt="Image hosting by KeepandShare.com" /></a>
+<hr/>
 Tap each image to expand the view.
 <hr/>
 <a href="https://www.keepandshare.com/doc10/32783/2009-article?ifr=y#comments" title="Click for IBEW article"><img src="https://www.keepandshare.com/userpics/d/_/a/_/b/2021-05/st/pirates09-79563172.jpg?ts=1622776610" border="0" alt="Image hosting by KeepandShare.com" /></a>
