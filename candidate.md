@@ -6,7 +6,9 @@ tagline: What I'm doing now
 
 <h4>Business Manager/Financial Secretary</h4>
 <hr/>
-<a href="https://www.keepandshare.com/photo4/17036/don-serving-in-a-variety-of-capacities?ifr=y" title="Click for slideshow"><img src="https://www.keepandshare.com/userpics/d/_/a/_/b/2021-06/st/don_crystal_zoo-58979461.jpg?ts=1622960152" border="0" alt="Image hosting by KeepandShare.com" /></a>
+<a href="https://www.keepandshare.com/photo4/17054/motion-picture?ifr=y" title="Tap for slideshow"><img src="https://www.keepandshare.com/userpics/d/_/a/_/b/2021-06/st/movie-63974056.jpg?ts=1623094484" border="0" alt="Image hosting by KeepandShare.com" /></a>
+<a href="https://www.keepandshare.com/photo4/17059/political-community-events?ifr=y" title="Tap for slideshow"><img src="https://www.keepandshare.com/userpics/d/_/a/_/b/2021-06/st/political-12618945.jpg?ts=1623093769" border="0" alt="Image hosting by KeepandShare.com" /></a>
+<a href="https://www.keepandshare.com/photo4/17060/training?ifr=y" title="Tap for slideshow"><img src="https://www.keepandshare.com/userpics/d/_/a/_/b/2021-06/st/training-70550362.jpg?ts=1623094750" border="0" alt="Image hosting by KeepandShare.com" /></a>
 <hr/>
 Tap candidate images to expand views.
 <hr/>
