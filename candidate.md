@@ -6,7 +6,7 @@ tagline: What I'm doing now
 
 <h4>Business Manager/Financial Secretary</h4>
 <hr/>
-<a href="https://www.keepandshare.com/photo4/17054/motion-picture?ifr=y" title="Tap for slideshow"><img src="https://www.keepandshare.com/userpics/d/_/a/_/b/2021-06/st/movie-63974056.jpg?ts=1623094484" border="0" alt="Image hosting by KeepandShare.com" /></a>
+<center><a href="https://www.keepandshare.com/photo4/17054/motion-picture?ifr=y" title="Tap for slideshow"><img src="https://www.keepandshare.com/userpics/d/_/a/_/b/2021-06/st/movie-63974056.jpg?ts=1623094484" border="0" alt="Image hosting by KeepandShare.com" /></a>
 <a href="https://www.keepandshare.com/photo4/17061/political?ifr=y" title="Tap for slideshow"><img src="https://www.keepandshare.com/userpics/d/_/a/_/b/2021-06/st/political_95968046-82408778.jpg?ts=1623097667" border="0" alt="Image hosting by KeepandShare.com" /></a>
 <a href="https://www.keepandshare.com/photo4/17060/training?ifr=y" title="Tap for slideshow"><img src="https://www.keepandshare.com/userpics/d/_/a/_/b/2021-06/st/training-70550362.jpg?ts=1623094750" border="0" alt="Image hosting by KeepandShare.com" /></a>
 <a href="https://www.keepandshare.com/photo4/17062/community?ifr=y" title="Tap for slideshow"><img src="https://www.keepandshare.com/userpics/d/_/a/_/b/2021-06/st/community-7750352.jpg?ts=1623099066" border="0" alt="Image hosting by KeepandShare.com" /></a>
@@ -20,3 +20,4 @@ Tap candidate images to expand views.
 More to come...Feel free to contact me via my form (email icon below).
 
 Tap "POWER" on the generator above.
+</center>
