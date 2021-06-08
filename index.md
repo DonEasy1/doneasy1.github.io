@@ -4,13 +4,13 @@ title: Home
 date: 2020-03-06
 ---
 
-<h2>2021 Election Updates</h2>
+<h3>2021 Election Updates</h3>
   <ul>
     {% for post in site.posts %}
       {% assign date_format = site.cayman.date_format | default: "%b %-d, %Y" %}
-      <h3>
+      <h4>
           <a class="post-link" href="{{ site.baseurl }}{{ post.url}}" title="{{ post.title }}">{{ post.title | escape }}</a>
-      </h3>
+      </h4>
       <span class="post-meta">{{ post.date | date: date_format }}
       </span>
       {{ post.excerpt | markdownify | truncatewords: 30 }}
