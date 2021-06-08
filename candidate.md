@@ -13,8 +13,8 @@ tagline: What I'm doing now
 Tap candidate images to expand views.
 <hr/>
 <a href="https://www.keepandshare.com/doc10/32783/2009-article?ifr=y#comments" title="Click for IBEW article"><img src="https://www.keepandshare.com/userpics/d/_/a/_/b/2021-05/st/pirates09-79563172.jpg?ts=1622776610" border="0" alt="Image hosting by KeepandShare.com" /></a>
-<a href="https://www.keepandshare.com/doc10/32820/2018-spr-ibew-local-40-news-and-events?ifr=y" target="_blank" title="Click to open a larger image"><img src="https://www.keepandshare.com/userpics/d/_/a/_/b/2021-06/st/screen_shot_2021_06_07_at_5.15.13_pm-34934478.jpg?ts=1623111494" border="0" alt="Image hosting by KeepandShare.com" /></a>
 <a href="https://www.keepandshare.com/doc10/32768/california-film-tv-retention-promotion-act-of-2014?ifr=y"><img src="https://www.keepandshare.com/userpics/d/_/a/_/b/2021-06/st/ca_tv_act_2014-81693022.jpg?ts=1622562488" border="0" alt="Image hosting by KeepandShare.com" /></a>
+<a href="https://www.keepandshare.com/doc10/32820/2018-spr-ibew-local-40-news-and-events?ifr=y" target="_blank" title="Click to open a larger image"><img src="https://www.keepandshare.com/userpics/d/_/a/_/b/2021-06/st/screen_shot_2021_06_07_at_5.15.13_pm-34934478.jpg?ts=1623111494" border="0" alt="Image hosting by KeepandShare.com" /></a>
 <a href="https://www.keepandshare.com/doc10/32773/flyer-1-including-link-to-pdf-version-below-the-image?ifr=y"><img src="https://www.keepandshare.com/userpics/d/_/a/_/b/2021-06/st/screen_shot_2021_06_01_at_3.01.23_pm-48667855.jpg?ts=1622776606" border="0" alt="Image hosting by KeepandShare.com" /></a>
 <hr/>
 More to come...Feel free to contact me via my form (email icon below).
