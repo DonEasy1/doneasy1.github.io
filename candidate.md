@@ -19,5 +19,5 @@ Tap candidate images to expand views.
 <hr/>
 More to come...Feel free to contact me via my form (email icon below).
 
-Tap "POWER" on the generator above.
+Start "POWER" on the generator above.
 </center>
