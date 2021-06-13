@@ -106,16 +106,14 @@
     animation: show 1s ease-in forwards 2.4s;
 }
 
-#Easy, #textEASY {
-    font-family: 'Kaushan Script', cursive;
-    /* stroke: #ffffff; */
+#OEasy, #textEASY {
+    font-family: 'Kaushan Script'
 }
 
 #textEASY {
-    fill: #ffffff;
     font-size: .75em;
 }
 
-#Easy {
+#tspanEasy {
     font-size: 1.5em;
 }
