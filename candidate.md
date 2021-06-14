@@ -5,8 +5,9 @@ tagline: What I'm doing now
 ---
 
 <h4>Business Manager/Financial Secretary</h4>
+<center><div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/562898338?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Don Easy Union Solidarity 2.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <hr/>
-<center><a href="https://www.keepandshare.com/photo4/17054/motion-picture?ifr=y" title="Tap for slideshow"><img src="https://www.keepandshare.com/userpics/d/_/a/_/b/2021-06/st/movie-63974056.jpg?ts=1623094484" border="0" alt="Image hosting by KeepandShare.com" /></a>
+<a href="https://www.keepandshare.com/photo4/17054/motion-picture?ifr=y" title="Tap for slideshow"><img src="https://www.keepandshare.com/userpics/d/_/a/_/b/2021-06/st/movie-63974056.jpg?ts=1623094484" border="0" alt="Image hosting by KeepandShare.com" /></a>
 <a href="https://www.keepandshare.com/photo4/17059/political-community-events?ifr=y" title="Tap for slideshow"><img src="https://www.keepandshare.com/userpics/d/_/a/_/b/2021-06/st/political-12618945.jpg?ts=1623093769" /></a>
 <a href="https://www.keepandshare.com/photo4/17060/training?ifr=y" title="Tap for slideshow"><img src="https://www.keepandshare.com/userpics/d/_/a/_/b/2021-06/st/training-70550362.jpg?ts=1623094750" border="0" alt="Image hosting by KeepandShare.com" /></a>
 <hr/>
