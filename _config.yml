@@ -1,5 +1,5 @@
 title: Don Easy
-tagline: Hollywood Entertainment Industry
+tagline: Hollywood Entertainment Industry IBEW Teamster
 
 description: Don Easy's Website
 email: doneasy1@gmail.com
@@ -7,6 +7,7 @@ url: "https://doneasy1.github.io/" # the base hostname & protocol for your site,
 baseurl: "" # the subpath of your site, e.g. /blog
 author: Don Easy
 share: true
+keywords: IBEW Union Local 40
 
 date: 
 update: 
