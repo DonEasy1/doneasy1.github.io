@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Home
+title: Updates
 date: 2020-03-06
 ---
 
