@@ -5,8 +5,7 @@ tagline: What I'm doing now
 ---
 
 <h4>Business Manager/Financial Secretary</h4>
-<center><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/563056431?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Union Solidarity"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<hr/>
+<center>
 <a href="https://www.keepandshare.com/photo4/17054/motion-picture?ifr=y" title="Tap for slideshow"><img src="https://www.keepandshare.com/userpics/d/_/n/_/d/2021-06/st/movie-63974056.jpg?ts=1623094484" border="0" alt="Image hosting by KeepandShare.com" /></a>
 <a href="https://www.keepandshare.com/photo4/17059/political-community-events?ifr=y" title="Tap for slideshow"><img src="https://www.keepandshare.com/userpics/d/_/n/_/d/2021-06/st/political-12618945.jpg?ts=1623093769" /></a>
 <a href="https://www.keepandshare.com/photo4/17060/training?ifr=y" title="Tap for slideshow"><img src="https://www.keepandshare.com/userpics/d/_/n/_/d/2021-06/st/training-70550362.jpg?ts=1623094750" border="0" alt="Image hosting by KeepandShare.com" /></a>
@@ -19,4 +18,7 @@ Tap candidate images to expand views.
 <a href="https://www.keepandshare.com/doc10/32773/flyer-1-including-link-to-pdf-version-below-the-image?ifr=y" title="Click to open a larger image"><img src="https://www.keepandshare.com/userpics/d/_/n/_/d/2021-06/st/screen_shot_2021_06_01_at_3.01.23_pm-48667855.jpg?ts=1622776606" border="0" alt="Image hosting by KeepandShare.com" /></a>
 <a href="https://www.keepandshare.com/doc10/32826/don-easy-local-40-flyer-2-incl-link-to-pdf-version-below-the-image?ifr=y" title="Click to open a larger image"><img src="https://www.keepandshare.com/userpics/d/_/n/_/d/2021-06/st/screen_shot_2021_06_10_at_6.00.38_pm-8794035.jpg?ts=1623373369" border="0" alt="Image hosting by KeepandShare.com" /></a>
 <a href="https://www.keepandshare.com/doc10/32855/don-easy-local-40-2021-election-flyer-3?ifr=y" title="Click to open a larger image"><img src="https://www.keepandshare.com/userpics/d/_/n/_/d/2021-06/st/flyer_3_draft-67311788.jpg?ts=1623866700" border="0" alt="Image hosting by KeepandShare.com" /></a>
+<hr/>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/563056431?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Union Solidarity"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 </center>
