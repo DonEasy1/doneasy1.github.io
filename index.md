@@ -4,7 +4,7 @@ title: Updates
 date: 2020-03-06
 ---
 
-<h3>2021 Election Updates</h3>
+<h3>2021 Local 40 Election</h3>
   <ul>
     {% for post in site.posts %}
       {% assign date_format = site.cayman.date_format | default: "%b %-d, %Y" %}
