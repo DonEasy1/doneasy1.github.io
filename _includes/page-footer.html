@@ -45,11 +45,13 @@
       </span>
     </div>
     <hr/>
+    {% if page.title != 'Candidate' %}
     <div class = "row justify-content-center">
       <a title="C10 Contractor License" href="https://www.keepandshare.com/doc10/32879/don-easy-california-c10-contractor-license?ifr=y">
         CA-C10 Lic.#</a>
       731349(inactive)
     </div>
+    {% endif %}
     <div class = "row justify-content-center">
       {% if page.title == 'Contact' %}
          <b>Ph or Txt: 406.640.4262</b>
@@ -57,6 +59,12 @@
          <span class="copyright">&copy; <a href="/" title="TOP of Page">Easy.Power 2021</a></span>
       {% endif %}
     </div>
+    {% if page.layout == 'index' %}
+    <div class = "row justify-content-center">
+      <a href='https://www.stat-counter.org/'> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=8da493b072a7f29bf75599ddcfa5a42e2074558b'></script>
+      <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/840147/t/12"></script></a>
+    </div>
+    {% endif %}
   <script>
       var menu = document.querySelector("nav.site-nav");
       var checkbox = document.getElementById("nav-trigger");
