@@ -3,4 +3,4 @@ layout: post
 title: Vote Count Day
 ---
 
-Yes, this evening, votes will be counted! 
+Votes have been counted. Now to make phone calls and give thanks.
