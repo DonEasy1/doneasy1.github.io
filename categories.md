@@ -8,11 +8,11 @@ ref: 0
 
 in the future ...
 <div class = "container-fluid">
-  <div class = "row justify-content-center">
+  <div class = "justify-content-center">
     TOPICS:&nbsp;<a title="Training" href="https://www.keepandshare.com/visit/visit_page.php?i=183130" target="_blank">Train</a>,&nbsp;<a title="Consulting" href="https://www.keepandshare.com/visit/visit_page.php?i=183130" target="_blank">Consult</a>,&nbsp;<a title="Contracting" href="https://www.keepandshare.com/visit/visit_page.php?i=183130" target="_blank">Contract</a>
     <iframe src="https://www.keepandshare.com/discuss4/show.php?i=183130&cat=1&ifr=y"  width="100%" height="300px" frameborder="1" scrolling="yes"></iframe>
+    <hr/>
   </div>
-  <hr/>
 {% for category in site.categories %}
   {% capture category_name %}{{ category | first }}{% endcapture %}
   <a id="{{ category_name | slugize }}">
