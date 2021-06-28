@@ -5,6 +5,8 @@ date: 2020-03-06
 tagline: Topics and Posts Lists
 ref: 0
 ---
+
+in the future ...
 <div class = "container-fluid">
   <div class = "row justify-content-center">
     TOPICS:&nbsp;<a title="Certified Nurse Aide -Related posts" href="#Train">Train</a>,&nbsp;<a title="Web Development & Networking -Related posts" href="#Consult">Consult</a>,&nbsp;<a title="Fiber Arts and Viking Sheep -Related posts" href="#Contract">Contract</a>
