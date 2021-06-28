@@ -4,7 +4,6 @@ title: Updates
 date: 2020-03-06
 ---
 
-<a href= "/categories/#footer-icons" title="All">Archives&rArr;</a>
 <h3>Updates</h3>
   <ul>
     {% for post in site.posts %}
