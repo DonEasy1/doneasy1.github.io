@@ -4,6 +4,7 @@ title: Updates
 date: 2020-03-06
 ---
 
+<a href= "/categories" title="All">All&rArr;</a>
 <h3>Updates</h3>
   <ul>
     {% for post in site.posts %}

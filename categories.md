@@ -9,7 +9,8 @@ ref: 0
 in the future ...
 <div class = "container-fluid">
   <div class = "row justify-content-center">
-    TOPICS:&nbsp;<a title="Certified Nurse Aide -Related posts" href="#Train">Train</a>,&nbsp;<a title="Web Development & Networking -Related posts" href="#Consult">Consult</a>,&nbsp;<a title="Fiber Arts and Viking Sheep -Related posts" href="#Contract">Contract</a>
+    TOPICS:&nbsp;<a title="Training" href="https://www.keepandshare.com/visit/visit_page.php?i=183130" target="_blank">Train</a>,&nbsp;<a title="Consulting" href="https://www.keepandshare.com/visit/visit_page.php?i=183130" target="_blank">Consult</a>,&nbsp;<a title="Contracting" href="https://www.keepandshare.com/visit/visit_page.php?i=183130" target="_blank">Contract</a>
+    <iframe src="https://www.keepandshare.com/discuss4/show.php?i=183130&cat=1&ifr=y"  width="100%" height="300px" frameborder="1" scrolling="yes"></iframe>
   </div>
   <hr/>
 {% for category in site.categories %}

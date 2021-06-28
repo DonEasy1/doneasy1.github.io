@@ -4,7 +4,7 @@ title: About
 tagline: What I'm doing now
 ---
 
-<h4>Work</h4>
+<h4>Background</h4>
 <center>
 Tap "POWER" on generator above.
 <hr/>

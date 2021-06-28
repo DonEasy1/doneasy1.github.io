@@ -3,12 +3,12 @@ layout: default
 title: Update
 ---
 
-<!-- {% assign categories = page.categories %}
+{% assign categories = page.categories %}
 {% for category in categories %}
-    {{page.categories | join: ', '}} -->
-    <!-- {% unless forloop.last %}&nbsp;{% endunless %} -->
-<!-- {% endfor %} -->
-<!-- (<a href= "/categories/" title="All">All Topics/Posts</a>) -->
+    {{page.categories | join: ', '}}
+    {% unless forloop.last %}&nbsp;{% endunless %}
+{% endfor %}
+(<a href= "/categories/" title="All">All Topics/Posts</a>)
 <h3>{{ page.title }}</h3>
 <p id="post" class="meta">{{ page.date | date_to_string }}</p>
 {{ content }}

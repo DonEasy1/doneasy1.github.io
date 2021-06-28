@@ -910,28 +910,22 @@
     <div>
       <h1 class="project-name">{{ site.title }}</h1>
       <h2 class="project-tagline tagline-anim">
-      <!-- {% if page.title == 'Candidate' %}
-         IBEW Local 40 Candidate
-         {% else %} -->
          {{ site.tagline }}
-      <!-- {% endif %} -->
    </h2>
-      {% if page.path contains '_posts' %}
-      <a href="/#hub" title="Updates" class="btn">Posts</a>
-      <a href="/about/#hub" title="For Manager" class="btn">Work</a>
-      {% endif %}
       {% if page.title == 'Updates' %}
-         <a href="/about/#hub" title="For Manager" class="btn">Work</a>
-         <a href="/contact/#footer-icons" title="Testimonials" class="btn">Contact</a>
-      {% endif %}
-      {% if page.title == 'About' %}
+         <a href="/about/#hub" title="For Manager" class="btn">My Work</a>
+         <a href="/contact/#footer-icons" title="Set Appointment, Discuss, Contact" class="btn">MEET</a>
+      {% elsif page.title == 'About' %}
          <a href="/#hub" title="Updates" class="btn">Posts</a>
-         <a href="/contact/#testimonials" title="Testimonials" class="btn">Testimonials</a>
-      {% endif %}
-      {% if page.title == 'Contact' %}
+         <a href="/contact/#testimonials" title="Set Appointment, Discuss, Contact" class="btn">MEET</a>
+      {% elsif page.title == 'Contact' %}
          <a href="/#hub" title="Updates" class="btn">Posts</a>
-         <a href="/about/#hub" title="For Manager" class="btn">Work</a>
+         <a href="/about/#hub" title="For Manager" class="btn">My Work</a>
+      {% else %}
+      <a href="/#hub" title="Updates" class="btn">Posts</a>
+      <a href="/about/#hub" title="For Manager" class="btn">My Work</a>
       {% endif %}
+      <a href="/#footer-icons" title="Testimonials" class="btn">&dArr;&dArr;&dArr;</a>
     </div>
   </div>
 </section>
