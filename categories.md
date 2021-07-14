@@ -6,7 +6,7 @@ tagline: Topics and Posts Lists
 ref: 0
 ---
 
-possibilities for the future ...
+MPI-related possibilities for the future ...
 <div class = "container-fluid">
   <div class = "justify-content-center">
     TOPICS:&nbsp;<a title="Training" href="https://www.keepandshare.com/visit/visit_page.php?i=183130" target="_blank">Train</a>,&nbsp;<a title="Consulting" href="https://www.keepandshare.com/visit/visit_page.php?i=183130" target="_blank">Consult</a>,&nbsp;<a title="Contracting" href="https://www.keepandshare.com/visit/visit_page.php?i=183130" target="_blank">Contract</a>
